@@ -12,7 +12,7 @@ import { switchMap, takeUntil, pairwise } from 'rxjs/operators'
         <div class="text-center">
             <button (click)="clear()">Clear</button>
         </div>
-        <p class="text-center">Autherized by <a target="_blank" href="https://github.com/tortuc"><b>tortuc</b></a></p>
+        <p class="text-center">Authorized by <a target="_blank" href="https://github.com/tortuc"><b>tortuc</b></a></p>
     `,
     styles: [`
         .text-center { text-align: center; }
